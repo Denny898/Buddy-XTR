@@ -8,14 +8,14 @@
   "stack": "container",
   "env": { 
     "SESSION_ID": {
-      "description": "Ensure your session Id starts with Buddy;;;",
+      "description": "Buddy;;;dNYACDQJ#pgSriHYY3tPpf7sEJqB4wbFMj_gUxsfBz52Yr1tWMHY",
       "required": true,
-      "value": ""
+      "value": "true"
     },
     "MODE": {
       "description": "Set to 'public' or 'private' to define bot mode",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
       "description": "Your Bot Prefix (default: .)",
@@ -25,12 +25,12 @@
     "OWNER_NAME": {
       "description": "Your name as the bot owner",
       "required": false,
-      "value": "𝖂𝖎𝖑𝖑𝖎𝖆𝖒"
+      "value": "DENBOY"
     },
     "OWNER_NUMBER": {
-      "description": "Your WhatsApp number",
+      "description": "263789085533",
       "required": true,
-      "value": ""
+      "value": "true"
     },
     "AUTO_READ": {
       "description": "Enable bot to auto-read messages (true/false)",
@@ -70,7 +70,7 @@
     "REJECT_CALL": {
       "description": "Enable bot to reject incoming calls (true/false)",
       "required": false,
-      "value": "false"
+      "value"true 
     }
   },
   "buildpacks": [
